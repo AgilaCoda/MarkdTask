@@ -8,7 +8,7 @@ MarkdTask is a task management</strong> for Markdown lovers 💕: instant .md fi
 <br>Here’s what this clever tool can do:<br>
 <ul>
     <li><strong>Dynamic task management</strong> – Add, edit, mark as done - whatever you need, all your tasks are easily accessible within tool toolbar</li>
-    <li><strong>Filtering and sorting</strong> – Because, let’s face it, task lists grow faster than tech debt</li>
+    <li><strong>Filtering</strong> – Because, let’s face it, task lists grow faster than tech debt</li>
     <li><strong>Kanban board</strong> – visualize your tasks like a pro, with a clean, interactive board that updates directly from your Markdown files</li>
     <li><strong>Ultra-lightweight</strong> – you can add multiple tasks at once, keeping Sprint planning smooth and uninterrupted while you stay ahead</li>
 </ul>
