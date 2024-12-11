@@ -34,5 +34,5 @@ MarkdTask is a task management</strong> for Markdown lovers 💕: instant .md fi
 
 Who said task management has to be a pain? Markdown lovers💕, this plugin is your secret weapon ⚔.
 
-For complete documentation and a detailed overview of all available features, please visit [MARKDTASK.COM](markdtask.com). 
+For complete documentation and a detailed overview of all available features, please visit [MARKDTASK.COM](https://markdtask.com). 
 There, you'll find everything you need to make the most of the tool, including in-depth guides, tips, and answers to common questions.
